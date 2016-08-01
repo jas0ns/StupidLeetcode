@@ -1,0 +1,2 @@
+# StupidLeetcode
+for algrithom practice
